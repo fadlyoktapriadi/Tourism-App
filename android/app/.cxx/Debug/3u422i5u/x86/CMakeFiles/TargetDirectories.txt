@@ -1,0 +1,2 @@
+C:/Users/fadly/Documents/Flutdic/tourism_app/android/app/.cxx/Debug/3u422i5u/x86/CMakeFiles/edit_cache.dir
+C:/Users/fadly/Documents/Flutdic/tourism_app/android/app/.cxx/Debug/3u422i5u/x86/CMakeFiles/rebuild_cache.dir
